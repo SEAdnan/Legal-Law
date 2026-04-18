@@ -1,2 +1,2 @@
 # Legal-Law
-A website for a law firm
+Website for a law firm
